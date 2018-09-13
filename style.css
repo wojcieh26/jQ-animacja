@@ -1,0 +1,25 @@
+body {
+    box-sizing: border-box;
+}
+
+h2 {
+    color: white;
+    /*czcionka nieco zmniejszona zeby napis zmiescil sie w kwadracie.*/
+    font-size: 20px;
+}
+
+#button {
+
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+#kwadrat {
+    overflow: hidden;
+    left: 10px;
+    top: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
